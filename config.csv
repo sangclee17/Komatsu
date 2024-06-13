@@ -1,0 +1,16 @@
+#item,value
+Number_Of_Backups,10
+Average_Elem_Size,10
+Aspect_Ratio,10
+Max_Angle_Per_Elem,45
+Bead_Thickness,10
+Bead_Elem_Size,10
+Fillet_Tokekomi,5
+Fillet_Gap_Limit,3
+Intermittent_Bead_Length,30
+Intermittent_Number_Of_Beads,5
+Intermittent_Pitch_Length,75
+Yomori_height,1
+Yomori_Loop_Radius,10
+Connect_Connected_Edge_Bead_Radius,8
+Connect_Connected_Edge_Bead_Elem_Size,4
